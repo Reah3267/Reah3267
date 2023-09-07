@@ -1,4 +1,4 @@
-Hi 👋 I'm Riya Roshini
+Hi 👋 I'm Riya Roshni
 ==================================
 
 Student
