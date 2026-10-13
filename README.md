@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm riya 👾
+# Hey, I'm riya 👾
 
 ### learning linux. building things. figuring it out in public.
 
