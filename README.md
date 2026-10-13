@@ -1,28 +1,27 @@
-Hi 👋 I'm Riya Roshni
-==================================
+# Hi, I'm Riya Roshni 👋
 
-Student
-------------
+I'm an aspiring IT professional building practical skills in **Python, Linux, Git/GitHub, troubleshooting, and automation**. I enjoy learning by building projects and documenting what I learn.
 
-* 🌍  I'm based in INDIA
-* ✉️  You can contact me at [riyaroshni2003@gmail.com](mailto:riyaroshni2003@gmail.com)
-* 🧠  I'm learning HTML, CSS, JavaScript, React
-* 🤝  I'm open to collaborating on projects
-* ⚡  Undergraduate at Atria Institute of Technology
+## Featured Project
 
-### Skills
+### [SmartDocs RAG](https://github.com/Reah3267/smartdocs-rag)
+A deployed PDF question-answering app that uses retrieval-augmented generation (RAG) to answer questions from uploaded documents.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
+- **Live demo:** [Try SmartDocs](https://smartdocs-rag-dvunknsrbl4nzaqyhjhhif.streamlit.app/)
+- **Built with:** Python, Streamlit, LangChain, Chroma, Hugging Face embeddings, Google Gemini
+- **Highlights:** Multi-PDF search, source/page citations, retrieved-evidence inspection, evaluation dashboard, and CSV export
 
+## Skills I'm Building
 
-### Socials
+- **Programming & data:** Python, SQL, HTML, CSS, Excel
+- **Tools:** Git, GitHub
+- **Currently learning:** Linux fundamentals, permissions, processes, and command-line troubleshooting
 
-<p align="left">
-<a href="https://github.com/Reah3267/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</a> <a href="https://www.linkedin.com/in/riya-roshni-a7a9a422a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</p>
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/riya-roshni-a7a9a422a/)
+- [Email](mailto:riyaroshni2003@gmail.com)
+
+---
+
+*I focus on practical projects, clear documentation, and steady improvement. This profile will grow as I complete and document more work.*
