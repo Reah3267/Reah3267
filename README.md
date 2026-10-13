@@ -1,31 +1,71 @@
-# Hi, I'm Riya Roshni 👋
+<div align="center">
 
-I'm building practical skills for **Junior DevOps, Linux, and IT Support** roles. My current focus is command-line fundamentals, file and directory management, permissions, processes, troubleshooting, Python, and Git/GitHub.
+# hey, i'm riya 👾
 
-I learn by building projects, testing them, and documenting what works.
+### learning linux. building things. figuring it out in public.
 
-## Featured Project
+`junior devops in progress` · `linux learner` · `python builder`
 
-### [SmartDocs RAG — PDF Question Answering](https://github.com/Reah3267/smartdocs-rag)
+**currently in my build → break → fix → repeat era.** ⚡
 
-A deployed Python application that lets users upload PDF documents, ask questions, and review answers with source/page citations.
+[![GitHub](https://img.shields.io/badge/GitHub-Reah3267-181717?style=for-the-badge&logo=github)](https://github.com/Reah3267)
+[![SmartDocs Live](https://img.shields.io/badge/SmartDocs-Live_Demo-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white)](https://smartdocs-rag-dvunknsrbl4nzaqyhjhhif.streamlit.app/)
 
-- **Live demo:** [Try SmartDocs RAG](https://smartdocs-rag-dvunknsrbl4nzaqyhjhhif.streamlit.app/)
-- **Technologies:** Python, Streamlit, LangChain, Chroma, Hugging Face embeddings, Google Gemini
-- **Project work:** Semantic retrieval, document processing, source citations, evaluation dashboard, CSV export, and deployment configuration
-- **Documentation:** Architecture diagram, setup instructions, evaluation notes, and known limitations are in the repository README.
+</div>
 
-## Skills
+---
 
-- **Currently learning:** Linux commands, permissions, process management, command-line troubleshooting
-- **Programming:** Python, SQL, HTML, CSS
-- **Tools:** Git, GitHub, Excel
-- **Next focus:** Shell scripting, networking basics, logs, services, and Linux troubleshooting labs
+### ✦ the plot
 
-## Other Projects
+I'm working toward **Junior DevOps / Linux / IT Support** roles and learning by actually using the tools: running commands, troubleshooting errors, building projects, and writing down what I learn.
 
-My other repositories contain smaller web and machine-learning learning projects. I'm gradually improving their documentation and prioritizing finished, well-explained work over the number of repositories.
+Not an expert (yet). Just consistent, curious, and committed to getting better.
 
-## Portfolio Approach
+### ✦ currently loading... ⏳
 
-I aim to show practical work, reproducible setup steps, honest evaluation, and clear documentation. Skills and project status will be updated as I complete and verify more work.
+```text
+[✓] Linux: files & directories
+[✓] Linux: permissions & processes
+[→] Linux: more hands-on practice
+[ ] Bash scripting
+[ ] Networking, logs & services
+[ ] DevOps tools & automation
+```
+
+### ✦ tech i work with
+
+**Learning / practicing**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Also explored**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### ✦ pinned in my brain 🧠
+
+#### 📚 [SmartDocs RAG — ask questions, get cited answers](https://github.com/Reah3267/smartdocs-rag)
+
+A deployed PDF Q&A app built with **Python, Streamlit, LangChain, Chroma, Hugging Face embeddings, and Gemini**.
+
+Upload PDFs → ask a question → see an answer with source/page citations. Includes an evaluation dashboard and CSV export.
+
+**[↗ Try the live app](https://smartdocs-rag-dvunknsrbl4nzaqyhjhhif.streamlit.app/)** · **[↗ Explore the code](https://github.com/Reah3267/smartdocs-rag)**
+
+### ✦ what's next?
+
+Turning my Linux practice into a documented, hands-on lab portfolio — with commands, screenshots, troubleshooting notes, and small automation projects as I learn.
+
+---
+
+<div align="center">
+
+*small steps, real progress. 🚀*
+
+</div>
